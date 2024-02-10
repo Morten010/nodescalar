@@ -14,7 +14,11 @@ const swaggerOption: swaggerJSDoc.Options = {
         info: {
             title: "Local llm",
             version: "1.0.0",
-            description: "Testing local llm"
+            description: "Testing local llm",
+            contact: {
+                name: "Morten",
+                url: "www.mortenra.me"
+            },
         },
     },
     apis: ["index.ts", "src/index.ts", "src/routes/*.ts"],
