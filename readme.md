@@ -1,6 +1,6 @@
 # Node.js - Typescript - Scalar/Swagger - Local LLM
 
-    An example on how to use a local Ai model like mistral on LM studio with node.js via the open ai sdk.
+An example on how to use a local Ai model like mistral on LM studio with node.js via the open ai sdk.
 
 ## Tech Stack
 
