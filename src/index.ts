@@ -26,7 +26,7 @@ console.log(openapiSpecification);
 app.use(
     "/docs",
     apiReference({
-        theme: "mars",
+        theme: "bluePlanet",
         spec: {
             content: openapiSpecification
         }
